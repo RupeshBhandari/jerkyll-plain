@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and rhgjhunning!
+title: Nepse Index closes at 2538.47, up by 2.56%!
 ---
 
 
